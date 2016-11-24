@@ -1,0 +1,14 @@
+.idea/
+.nyc_output/
+.vscode/
+node_modules/
+extra/
+coverage/
+demo/
+src/
+
+.DS_Store
+nohup.out
+dump.rdb
+*.log
+test.js
